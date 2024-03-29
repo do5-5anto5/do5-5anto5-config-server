@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "Yrashai"
-  default-value: "Kono Sekai!"
+  greeting: "Pronto"
+  default-value: "Mondo!"
